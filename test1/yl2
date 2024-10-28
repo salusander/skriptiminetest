@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo -n "Täna on "
+date +"%A, %B %d, %Y"
+echo
+echo -n "Kell on "
+date +"%T"
+echo
+cal
+
