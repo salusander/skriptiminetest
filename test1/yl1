@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Skripti käivitamisel väljastatakse kasutajale tervitus ja kuvatakse tema kasutajanimi.
+
+echo -n "Tere, "
+echo -n "$USER"
+echo "!"
